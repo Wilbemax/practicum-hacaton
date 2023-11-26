@@ -233,6 +233,16 @@ body {
 .card:hover {
 	transform: scale(1.05);
 }
+.footer{
+	display: flex;
+	align-items: center;
+	justify-content: center;
+	color: #ffffff9e;
+	padding: 20px 0;
+}
+.footer a{
+	color: #ffffff9e;
+}
 
 @media screen and (max-width: 1400px) {
 	.container {
